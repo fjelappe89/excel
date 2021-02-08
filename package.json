@@ -14,10 +14,14 @@
     "js",
     "excel"
   ],
-  "author": "Vitaliy Kutcenko <fjelappe89@gmail.com>",
+  "author": "Vitaliy Kucenko <fjelappe89@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fjelappe89/excel/issues"
   },
-  "homepage": "https://github.com/fjelappe89/excel#readme"
+  "homepage": "https://github.com/fjelappe89/excel#readme",
+  "devDependencies": {
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
 }
