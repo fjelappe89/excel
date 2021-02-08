@@ -1,1 +1,23 @@
-{}
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "excel JS application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjelappe89/excel.git"
+  },
+  "keywords": [
+    "js",
+    "excel"
+  ],
+  "author": "Vitaliy Kutcenko <fjelappe89@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjelappe89/excel/issues"
+  },
+  "homepage": "https://github.com/fjelappe89/excel#readme"
+}
